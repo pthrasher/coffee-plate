@@ -1,7 +1,7 @@
 ###
 jQuery Plugin Boilerplate in coffee script
 A boilerplate for jumpstarting jQuery plugin development using coffee script
-version 0.1, Sept 21st, 2011
+version 0.2, Sept 21st, 2011
 by Philip Thrasher
 ###
 
@@ -30,4 +30,5 @@ by Philip Thrasher
       unless $el.data 'pluginName'
         $el.data 'pluginName', new $.pluginName el, options
 
+  undefined
 )(jQuery)
