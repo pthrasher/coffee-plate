@@ -7,7 +7,7 @@ What do I define `it` as, you may ask? Well, `it` refers to some tasty
 jQuery plugin boilerplate written in coffee script, so that you may
 write your own jQuery plugins using coffee script.
 
-#### Usage
+### Usage
 
 ```coffeescript
 ($ document).ready ->
@@ -22,27 +22,27 @@ write your own jQuery plugins using coffee script.
 
 ```
 
-#### Whoa, why are there two files?
+### Whoa, why are there two files?
 
 One has comments, one does not. Derp derp.
 
-### I hate coffee script
+## I hate coffee script
 
 Ahh, you hate the coffee script? You sound like one of those poor souls
 who likely hated by their own mother. That's just sad. Mom's love
 children no matter what. What's your excuse?
 
-### I effing love this shiznit!
+## I effing love this shiznit!
 
 Good, you should. You should send me issues and pull requests if you
 have any, as well.
 
-### You are a beautiful god
+## You are a beautiful god
 
 Why thank you, seeing as how you are so fond of me, you should follow
 me on twitter. [@philipthrasher](http://twitter.com/philipthrasher)
 
-### You're a *monster*!
+## You're a *monster*!
 
 Yes, and if you don't follow me on twitter, you'll be forced to face my
 wrath, puny minion. [@philipthrasher](http://twitter.com/philipthrasher)
