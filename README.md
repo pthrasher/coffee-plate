@@ -3,6 +3,14 @@
 Well, the long and short of it is that this didn't exist. Or, if it did,
 my magical google prowess was unable to find it. So, I made it.
 
+Okay, you got me... It did exist, but let me just say, there are a lot
+of people out there who don't really grok coffee script fully. The only
+other ones I could find weren't really written in idiomatic CS, and
+didn't really work the way I wanted them to.
+
+All in all, you're free to use what you like, but I like the way mine is
+layed out better.
+
 What do I define `it` as, you may ask? Well, `it` refers to some tasty
 jQuery plugin boilerplate written in coffee script, so that you may
 write your own jQuery plugins using coffee script.
