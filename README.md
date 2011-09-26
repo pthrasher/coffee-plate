@@ -11,13 +11,13 @@ write your own jQuery plugins using coffee script.
 
 ```coffeescript
 ($ document).ready ->
-  // attach the plugin to an element
+  # attach the plugin to an element
   ($ '#element').pluginName 'foo': 'bar'
 
-  // call a public method
+  # call a public method
   (($ '#element').data 'pluginName').publicMethod1()
 
-  // get the value of a property
+  # get the value of a property
   (($ '#element').data 'pluginName').options.foo
 
 ```
