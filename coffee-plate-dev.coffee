@@ -51,7 +51,7 @@ by Philip Thrasher
 
   $.fn.pluginName = (options) ->
     $.each @, (i, el) ->
-      $el = $ el
+      $el = ($ el)
 
       # Only instantiate if not previously done.
       unless $el.data 'pluginName'

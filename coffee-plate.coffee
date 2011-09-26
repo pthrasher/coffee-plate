@@ -25,7 +25,7 @@ by Philip Thrasher
 
   $.fn.pluginName = (options) ->
     $.each @, (i, el) ->
-      $el = $ el
+      $el = ($ el)
 
       unless $el.data 'pluginName'
         $el.data 'pluginName', new $.pluginName el, options
