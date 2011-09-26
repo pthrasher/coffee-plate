@@ -2,7 +2,7 @@
   /*
   jQuery Plugin Boilerplate in coffee script
   A boilerplate for jumpstarting jQuery plugin development using coffee script
-  version 0.2, Sept 21st, 2011
+  version 0.3, Sept 21st, 2011
   by Philip Thrasher
   */
   var __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
