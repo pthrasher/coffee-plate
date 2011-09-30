@@ -45,11 +45,6 @@ children no matter what. What's your excuse?
 Good, you should. You should send me issues and pull requests if you
 have any, as well.
 
-## You are a beautiful god
-
-Why thank you, seeing as how you are so fond of me, you should follow
-me on twitter. [@philipthrasher](http://twitter.com/philipthrasher)
-
 ## You're a *monster*!
 
 Yes, and if you don't follow me on twitter, you'll be forced to face my
