@@ -1,4 +1,4 @@
-# So, what's the dilly?
+# So, what's the deal?
 
 Well, the long and short of it is that this didn't exist. Or, if it did,
 my magical google prowess was unable to find it. So, I made it.
@@ -40,7 +40,7 @@ Ahh, you hate the coffee script? You sound like one of those poor souls
 who likely hated by their own mother. That's just sad. Mom's love
 children no matter what. What's your excuse?
 
-## I effing love this shiznit!
+## I love this!
 
 Good, you should. You should send me issues and pull requests if you
 have any, as well.
